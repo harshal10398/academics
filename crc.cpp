@@ -1,3 +1,17 @@
+/*
+Single damn algo which took me nearly 10 hours to convert to STUDENT UNDESTANDABLE code.
+I know better programs exists but they're too complicated to understand so here is a basic g++/cpp implementation.
+CRC=Cyclic Redundency Check is method of error detection based on concept of redundency bits.
+Exectution:
+./crc.cpp.o 10110011010 1001
+-----------|-----------|----|
+            Data to be  Code
+               Sent     used
+                        to
+                        generate
+                        crc
+*/
+
 #include "iostream"
 using namespace std;
 #include "cmath"

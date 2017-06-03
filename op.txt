@@ -1,0 +1,16 @@
+Creating objects now!
+1x1 memory allocated!
+3x2 memory allocated!
+3x2 memory copied!
+Displaying objects now!
+a
+0 
+b
+0 0 
+0 0 
+0 0 
+c
+0 0 
+0 0 
+0 0 
+Objects will automatically destroy now!

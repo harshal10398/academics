@@ -1,3 +1,6 @@
+Siraj Raval, I wish I had a teacher like you :)
+https://github.com/llSourcell
+This is a fork of his stock predictor just playing around :)
 # How-to-Predict-Stock-Prices-Easily-Demo
 How to Predict Stock Prices Easily - Intro to Deep Learning #7 by Siraj Raval on Youtube
 
